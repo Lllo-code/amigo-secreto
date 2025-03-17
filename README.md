@@ -1,4 +1,5 @@
 Projeto Amigo Secreto
+
 Este é um projeto simples para realizar o sorteio de um amigo secreto. Permite que você adicione amigos à lista e, em seguida, sorteie aleatoriamente quem vai ser o amigo secreto de quem.
 
 Funcionalidades
